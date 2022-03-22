@@ -22,5 +22,5 @@ We store your message to train AI model that can automaticly detect spam message
 root-channel is a text channel, bot send message and show log in it. at first when you invite the bot to your server bot make automatically a root-channel names spam-killer but you can change it with `-$change-root` command to any channel that you want ant bot have permision to it and then delete spam-killer channel
 
 # Support us ❤️
-you can invite our bot to your server, it's free and its cost no much <br>
+you can <a href='https://discord.com/oauth2/authorize?client_id=954630056980934676&permissions=268445712&scope=bot'>invite our bot</a> to your server, it's free and its cost no much <br>
 and you can donate us by <a href='https://dono.gg/bofsbit'>this link</a> how much you want its not necessary but its helps a lot and give us motivation to keep developed this bot and paying the server cost
