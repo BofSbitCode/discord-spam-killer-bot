@@ -1,4 +1,4 @@
-# Spam killer [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/vpEv3HJ)
+# Spam killer [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Z64HVk79vs)
 The Spam killer is `Discord` bot. This bot can help the mods to detect and delete `spam messages` faster.
 We store your message to train AI model that can automaticly detect spam messages and notice mods, when you invite this bot to your server you help alot us to develop this bot faster and make it automaticly as soon as posible.
 
